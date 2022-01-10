@@ -2,3 +2,6 @@
 - Sea Salt
 - Olive Oil
 - Lemons
+- Pepper
+- Hummus
+- Chips
